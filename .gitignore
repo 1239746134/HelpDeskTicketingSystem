@@ -1,0 +1,26 @@
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== 构建产物 =====
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# ===== NuGet =====
+*.nupkg
+packages/
+
+# ===== 日志 =====
+[Ll]ogs/
+*.log
+
+# ===== 备份/临时文件 =====
+*.bak
+*.tmp
